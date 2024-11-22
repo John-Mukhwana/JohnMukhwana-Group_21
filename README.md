@@ -18,9 +18,9 @@ A personal portfolio website showcasing skills, projects, and professional achie
 6. [📖 Usage](#-usage)  
 7. [🚀 Live Demo](#-live-demo)  
 8. [🤝 Contributing](#-contributing)   
-9. [🙏 Acknowledgements](#-acknowledgements)
-10. [💥 Demo Images ](#-demo-images)
-11. [🕵️‍♂️ Author](#-authors)
+9. [🙏 Acknowledgements](#-acknowledgements) 
+10. [💥 Demo Images ](#-demo-images)  
+11. [🕵️‍♂️ Author](#-authors)  
 
 
 ---
@@ -173,7 +173,7 @@ But before contributing contact me first
 
 ---  
 
-## 🌟 Author  
+## 🕵️‍♂️ Author  
 
 **John Bradill Mukwana**
 
