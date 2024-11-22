@@ -1,10 +1,13 @@
 
 # JohnMukhwana-Group_21 :rocket:
 <br>
-![My Portfolio Screenshot](assets/Portfolio-Screenshot.jpg)
+
+--
 
 A personal portfolio website showcasing skills, projects, and professional achievements. This site highlights my expertise in fullstack development, software engineering, and other technical proficiencies.
 
+--
+![My Portfolio Screenshot](assets/Portfolio-Screenshot.jpg)
 ---
 
 
