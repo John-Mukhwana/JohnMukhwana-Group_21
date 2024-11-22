@@ -6,7 +6,7 @@
 
 A personal portfolio website showcasing skills, projects, and professional achievements. This site highlights my expertise in fullstack development, software engineering, and other technical proficiencies.
 
-![My Portfolio Screenshot](assets/Portfolio-Screenshot.jpg)
+![My Portfolio Screenshot](./src/assets/PortfolioScreenshot.PNG)
 
 
 ---
@@ -39,7 +39,7 @@ This portfolio is a reflection of my:
 
 🔗 Explore projects, blogs, and resources that highlight my journey in **software engineering**, **blog writing**, and **community mentorship**.  
 
-![Portfolio Screenshot](./assets/portfolio-screenshot.png)  
+![Portfolio Screenshot](./src/assets/FolderStructure.PNG)  
 
 <br>
 
