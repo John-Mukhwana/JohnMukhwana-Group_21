@@ -1,14 +1,14 @@
 
 # JohnMukhwana-Group_21 :rocket:
 <br>
+![My Portfolio Screenshot](assets/Portfolio-Screenshot.jpg)
 
 A personal portfolio website showcasing skills, projects, and professional achievements. This site highlights my expertise in fullstack development, software engineering, and other technical proficiencies.
-<br>
----
-<br>
-This is a screenshot  og the hero part of my portfolio
 
-![My Portfolio Screenshot](assets/Portfolio-Screenshot.jpg)
+---
+
+
+
 
 ---
 ## 📜 Table of Contents  
@@ -25,7 +25,7 @@ This is a screenshot  og the hero part of my portfolio
 
 
 ---
-<br>
+
 ## ✨ Introduction  
 
 Hi there! 👋 I'm **John Bradill Mukhwana**, a **Fullstack Developer** and **Software Engineering Student at Kirinyaga University**.  
