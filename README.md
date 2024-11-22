@@ -139,7 +139,7 @@ pnpm run build
 
 ## 🚀 Live Demo
 Exprience the portfolio live at:  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-live-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://john-mukhwana-portfolio.netlify.app/)
 <br>
 ---
 ## 🤝 Contributing
