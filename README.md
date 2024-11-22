@@ -21,6 +21,7 @@ A personal portfolio website showcasing skills, projects, and professional achie
 9. [🙏 Acknowledgements](#-acknowledgements) 
 10. [💥 Demo Images ](#-demo-images)  
 11. [🕵️‍♂️ Author](#-authors)  
+12. [🏆 Future Features](#-future-features)
 
 
 ---
@@ -44,6 +45,7 @@ This portfolio is a reflection of my:
 
 ---
 ## 🎨 Features  
+
 ✅ **Theme Changer:** you can view it in dark mode or light mode<br>
 ✅ **Dynamic User Dashboard:** with easy navigation.  
 ✅ **Blog Cards with Hover Effects:** to explore my technical writings.  
@@ -54,6 +56,8 @@ This portfolio is a reflection of my:
 ✅ **Projects Section:** Highlights recent work with detailed descriptions.<br>
 ✅ **Rating Section:** For giving me feedback about my portfolio<br>
 ✅ **Contact Form:** A functional form to reach out directly. <br>
+
+<br>
 
 *Screenshot for Responsivenessof My portfolio*
 ![Portfolio Screenshot](./src/assets/ResponsiveScreenshot.png)   
@@ -87,7 +91,7 @@ This portfolio is a reflection of my:
 Here's how the project is organized: <br>
 
 ![My Portfolio Screenshot](./src/assets/FolderStructure.PNG)
-
+<br>
 
 ---
 
@@ -130,13 +134,13 @@ Make sure you have these installed:<br>
 ```bash
 pnpm run build
 ```
-
+<br>
 ---
 
 ## 🚀 Live Demo
 Exprience the portfolio live at:  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-live-demo-link.com)
-
+<br>
 ---
 ## 🤝 Contributing
 I welcome contributions! 🌟  
@@ -151,6 +155,7 @@ But before contributing contact me first
    git clone https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git
    cd JohnMukhwana-Group_21
    ```
+   <br>
 ---
 
 ## 🙏 Acknowledgements  
@@ -160,6 +165,8 @@ But before contributing contact me first
 - 🛠️ Built using **modern web technologies** to ensure scalability and performance.  
 - 💡 Special thanks to **mentors, peers, and contributors** for their guidance and feedback.  
 - 🌍 Grateful for the **open-source community** for providing incredible tools and resources.
+
+<br>
 
 ---
 ## 🔥 Demo Images  
@@ -171,7 +178,15 @@ But before contributing contact me first
 ![Demo Screenshot 4](./src/assets/Repos.jpg)
 ![Demo Screenshot 4](./src/assets/Achivement.jpg)
 
----  
+<br>
+--- 
+
+## 🏆 Future Features
+
+- 🔮 AI-powered blog post recommendations  
+- 🌐 Community integration for discussions and feedback  
+
+---
 
 ## 🕵️‍♂️ Author  
 
