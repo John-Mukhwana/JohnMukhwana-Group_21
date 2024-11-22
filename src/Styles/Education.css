@@ -1,0 +1,41 @@
+
+  
+  @media (max-width: 640px) {
+    .achievement-card {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .achievement-details {
+      margin-left: 0;
+      margin-top: 1rem;
+    }
+  
+    .achievement-image {
+      width: 3rem;
+      height: 3rem;
+    }
+  
+    .achievement-details h3 {
+      font-size: 1.25rem;
+    }
+  }
+  
+  /* Achievements.css */
+.achievement-card {
+    transition: transform 0.3s;
+  }
+  
+  .achievement-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .achievement-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .additional-details ul {
+    padding-left: 0;
+  }
+  

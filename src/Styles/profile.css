@@ -1,0 +1,105 @@
+
+
+/* src/ProfileSection.css */
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.profile-container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.profile-picture {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.rotating-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 300px;
+  height: 300px;
+  margin-top: -150px;
+  margin-left: -150px;
+  animation: rotate 10s linear infinite;
+}
+
+.icon {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+}
+
+/* Adjust the icon positions for 9 icons */
+.icon-0 { top: 0; left: 50%; transform: translate(-50%, -50%); }
+.icon-1 { top: 18%; left: 82%; transform: translate(-50%, -50%); }
+.icon-2 { top: 50%; left: 100%; transform: translate(-50%, -50%); }
+.icon-3 { top: 82%; left: 82%; transform: translate(-50%, -50%); }
+.icon-4 { top: 100%; left: 50%; transform: translate(-50%, -50%); }
+.icon-5 { top: 82%; left: 18%; transform: translate(-50%, -50%); }
+.icon-6 { top: 50%; left: 0%; transform: translate(-50%, -50%); }
+.icon-7 { top: 18%; left: 18%; transform: translate(-50%, -50%); }
+.icon-8 { top: 0; left: 50%; transform: translate(-50%, -50%); }
+
+/* Responsive design */
+@media (max-width: 640px) {ss
+  .profile-container {
+    width: 150px;
+    height: 150px;
+  }
+
+  .rotating-container {
+    width: 200px;
+    height: 200px;
+    margin-top: -100px;
+    margin-left: -100px;
+  }
+
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+
+/* Base styles for the typewriter effect */
+.typewriter h2 {
+  overflow: hidden; /* Ensures text disappears during animation */
+  border-right: .10em solid orange; /* Cursor */
+  white-space: nowrap; /* Prevents text wrapping */
+  margin: 0 auto; /* Centers text */
+  letter-spacing: .10em; /* Adjust spacing between letters */
+  animation: typing 3.5s steps(40, end) 1s forwards, hide-caret 0.5s 4s forwards;
+  font-size: clamp(1.5rem, 4vw, 2.5rem); /* Responsive font size */
+}
+
+/* Keyframes for typing effect */
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+/* Keyframes for hiding the cursor */
+@keyframes hide-caret {
+  from { border-color: orange; }
+  to { border-color: transparent; }
+}
+
+/* Media queries for additional responsiveness */
+@media (max-width: 640px) {
+  .typewriter h2 {
+    font-size: clamp(1rem, 3vw, 2rem); /* Smaller font size for small screens */
+    letter-spacing: .05em; /* Adjust letter spacing for smaller screens */
+  }
+}

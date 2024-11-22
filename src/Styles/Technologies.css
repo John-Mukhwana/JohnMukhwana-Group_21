@@ -1,0 +1,26 @@
+
+
+/* Add this to your CSS file if needed */
+.tech-card {
+    position: relative;
+    overflow: hidden; 
+  }
+  
+  .tech-name {
+    position: absolute;
+    bottom: 1rem;
+    transform: translateY(100%);
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .tech-card:hover .tech-name {
+    transform: translateY(0);
+    opacity: 1;
+  }
+.tech-card:hover {
+    opacity: 1;
+    background-color: #2d3748;
+    border: 2px solid #1a202c; 
+  }
+  

@@ -1,0 +1,18 @@
+/* Achievements.css */
+.achievement-card {
+    transition: transform 0.3s;
+  }
+  
+  .achievement-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .achievement-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .additional-details ul {
+    padding-left: 0;
+  }
+  
