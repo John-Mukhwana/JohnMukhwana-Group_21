@@ -53,7 +53,7 @@ This portfolio is a reflection of my:
 ✅ **Community Features**: for user engagement. 
 ✅ **Interactive UI**: Engaging animations and navigations.
 ✅ **Projects Section**: Highlights recent work with detailed descriptions.
-✅ **Rating Section**  :For giving me feedback about my portfolio
+✅ **Rating Section**  :For giving me feedback about my portfolio 
 ✅ **Contact Form**: A functional form to reach out directly. 
 
 
@@ -84,7 +84,7 @@ This portfolio is a reflection of my:
 
 Here's how the project is organized: <br>
 
-![My Portfolio Screenshot](assets/FolderStructure.PNG)
+![My Portfolio Screenshot](./src/assets/FolderStructure.PNG)
 
 
 ---
