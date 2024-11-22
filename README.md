@@ -39,24 +39,24 @@ This portfolio is a reflection of my:
 
 🔗 Explore projects, blogs, and resources that highlight my journey in **software engineering**, **blog writing**, and **community mentorship**.  
 
-![Portfolio Screenshot](./src/assets/FolderStructure.PNG)  
 
 <br>
 
 ---
 ## 🎨 Features  
-✅ **Theme Changer**: you can view it in dark mode or light mode
+✅ **Theme Changer**: you can view it in dark mode or light mode<br>
 ✅ **Dynamic User Dashboard**: with easy navigation.  
 ✅ **Blog Cards with Hover Effects**: to explore my technical writings.  
 ✅ **Responsive Design**: for all screen sizes.  
 ✅ **Interactive Components**: for a seamless user experience.  
 ✅ **Community Features**: for user engagement. 
-✅ **Interactive UI**: Engaging animations and navigations.
-✅ **Projects Section**: Highlights recent work with detailed descriptions.
-✅ **Rating Section**  :For giving me feedback about my portfolio 
-✅ **Contact Form**: A functional form to reach out directly. 
+✅ **Interactive UI**: Engaging animations and navigations.<br>
+✅ **Projects Section**: Highlights recent work with detailed descriptions.<br>
+✅ **Rating Section**  :For giving me feedback about my portfolio<br>
+✅ **Contact Form**: A functional form to reach out directly. <br>
 
-
+*Screenshot for Responsivenessof My portfolio*
+![Portfolio Screenshot](./src/assets/ResponsiveScreenshot.png)  
 ---
 
 ## 🛠️ Technologies Used  
@@ -91,12 +91,12 @@ Here's how the project is organized: <br>
 
 ### ⚙️ Installation & Setup
 
-**Prerequisites**
+**Prerequisites** 
 Make sure you have these installed:<br>
 
--Node.js v14+<br>
--npm or yarn<br>
--pnpm
+- Node.js v14+<br>
+- npm or yarn<br>
+- pnpm
 
 --
 1. Clone the repository:
