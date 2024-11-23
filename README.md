@@ -5,6 +5,15 @@
 
 A personal portfolio website showcasing skills, projects, and professional achievements. This site highlights my expertise in fullstack development, software engineering, and other technical proficiencies.
 
+---
+## My Portfolio Links🌐📶
+
+- **Live Link on Netlify:** https://john-mukhwana-portfolio.netlify.app  
+- **Live Link on Vercel:** https://john-bradill-portfolio-black.vercel.app  
+- **Github Link** :https://github.com/John-Mukhwana/JohnMukhwana-Group_21.git 
+
+---
+
 ![My Portfolio Screenshot](./src/assets/PortfolioScreenshot.PNG)
 
 
