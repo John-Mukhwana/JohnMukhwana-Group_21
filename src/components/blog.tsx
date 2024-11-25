@@ -1,6 +1,6 @@
 
 import React from "react";
-
+// 1. Define the `Blog` type
 type Blog = {
   id: number;
   title: string;
@@ -8,7 +8,7 @@ type Blog = {
   imageUrl: string;
   link: string;
 };
-
+// 2. Define the `blogs` array
 const blogs: Blog[] = [
   {
     id: 1,
@@ -32,7 +32,7 @@ const blogs: Blog[] = [
     link: "https://the-tech-checkmate.blogspot.com/2024/10/the-future-of-artificial-intelligence.html",
   },
 ];
-
+// 3. Define the `BlogComponent` functional component
 const BlogComponent: React.FC = () => {
   return (
     <div className="container mx-auto p-6">
