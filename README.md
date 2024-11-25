@@ -205,7 +205,7 @@ But before contributing contact me first
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://john-mukhwana-portfolio.netlify.app)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnbradillmukhwana) 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johnbradill67@gmail.com)
 
@@ -214,3 +214,4 @@ Feel free to reach out for collaboration or inquiries!
 
 ---
  
+
