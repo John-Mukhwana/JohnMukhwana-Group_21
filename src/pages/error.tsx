@@ -1,17 +1,20 @@
 
 
-
+// 1. Import the necessary modules.
 import { Link, useRouteError } from "react-router-dom";
 import { ArrowLeft } from 'lucide-react';
 import Navbar from "../components/Navbar";
 
+// 2. Define the `ErrorWithStatusText` type.
 type ErrorWithStatusText = { statusText?: string; message?: string };
 
+// 3. Create the `Error` functional component.
 function Error(): JSX.Element {
     const error = useRouteError() as ErrorWithStatusText;
-
+// 4. Return the JSX for the Error component.
     return (
         <>
+        
             <Navbar toggleSidebar={() => {}} />
             <div className="py-10 bg:base-100">
                 <div className="text-center">
@@ -25,6 +28,7 @@ function Error(): JSX.Element {
                     <p>
                         {error?.statusText || error.message}
                     </p>
+                    
                     <div className="mt-4 flex items-center justify-center gap-x-3">
                         <Link to="" className="inline-flex items-center btn btn-sm btn-info text-sm font-semibold">
                             <ArrowLeft size={16} className="mr-2" /> Go back
