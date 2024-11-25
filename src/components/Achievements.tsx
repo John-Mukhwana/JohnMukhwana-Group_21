@@ -5,6 +5,8 @@ import '../Styles/Achievements.css';
 import { FaChevronDown, FaChevronUp, FaJsSquare, FaReact, FaNodeJs, FaBuilding, FaShieldAlt, FaNetworkWired, FaCloud } from 'react-icons/fa';
 import { SiMicrosoftexcel, SiTypescript } from 'react-icons/si';
 
+
+// 1. The `achievements` array contains objects with details of each achievement.
 const achievements = [
   {
     title: 'Fullstack Developer Certification',
@@ -48,6 +50,7 @@ const achievements = [
   }
 ];
 
+// 2. The `techIcons` object contains icons for each technology used in the achievements.
 const techIcons: { [key: string]: JSX.Element } = {
   'JavaScript': <FaJsSquare className='text-yellow-600' />,
   'React': <FaReact className='text-blue-600' />,
@@ -62,15 +65,16 @@ const techIcons: { [key: string]: JSX.Element } = {
   'Expo': <FaReact className='text-blue-600'/>,
 };
 
+// 3. The `Achievements` component displays the achievements using the data from the `achievements` array.
 const Achievements = () => {
   const [showDetails, setShowDetails] = useState(Array(achievements.length).fill(false));
-
+// 4. The `toggleDetails` function toggles the visibility of additional details for each achievement.
   const toggleDetails = (index: number) => {
     const newShowDetails = [...showDetails];
     newShowDetails[index] = !newShowDetails[index];
     setShowDetails(newShowDetails);
   };
-
+// 5. The `Achievements` component returns a list of achievements with the option to show additional details.
   return (
     <div className=" text-white min-h-full p-8">
       <div className="container mx-auto">
