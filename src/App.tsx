@@ -1,4 +1,5 @@
 
+// Importing necessary modules
 
 import { createBrowserRouter,RouterProvider } from "react-router-dom"
 import Dashboard from "./Dashboard/Dashboard"
@@ -11,8 +12,7 @@ import AchievementPage from "./pages/achievements"
 import ContactMePage from "./pages/contactMePage"
 import FavoritePage from "./pages/favouriteRepos"
 
-
-
+// Defining the App component
 function App() {
   const router = createBrowserRouter([
   
@@ -69,6 +69,7 @@ function App() {
 
 
   ])
+  // Returning the RouterProvider component
   return (
 
     <RouterProvider router={router}/>
