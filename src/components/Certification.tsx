@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-
+// 1. Define the `Certificate` type
 type Certificate = {
   id: number;
   title: string;
@@ -9,7 +9,7 @@ type Certificate = {
   description: string;
   imageUrl: string;
 };
-
+// 2. Define the `certificates` array
 const certificates: Certificate[] = [
   {
     id: 1,
@@ -63,7 +63,7 @@ const CertificationComponent: React.FC = () => {
   const closeModal = () => {
     setSelectedCertificate(null);
   };
-
+// 4. Implement the `CertificationComponent` functional component
   return (
     <div className="container mx-auto p-6">
       <h2 className="text-3xl font-bold text-center mb-8 text-white dark:text-yellow-500">
